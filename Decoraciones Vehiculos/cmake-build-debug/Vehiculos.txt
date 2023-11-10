@@ -1,0 +1,3 @@
+V1	Ferrari 458 Italia Coupe	15000	21	250	562
+V2	Tesla Model x	17000	22	180	670
+V3	Maserati MC12 Stradale	17000	18	255	450
